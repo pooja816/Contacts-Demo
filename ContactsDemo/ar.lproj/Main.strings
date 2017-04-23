@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "full name"; ObjectID = "9qx-Xr-x6Q"; */
+"9qx-Xr-x6Q.text" = "full name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D0f-qB-c9c"; */
+"D0f-qB-c9c.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Select Contact"; ObjectID = "SBf-Ss-9Tf"; */
+"SBf-Ss-9Tf.normalTitle" = "Select Contact";
+
+/* Class = "UILabel"; text = "email id"; ObjectID = "TbV-Kp-VTV"; */
+"TbV-Kp-VTV.text" = "email id";
+
+/* Class = "UIButton"; normalTitle = "Get all contacts"; ObjectID = "cNH-S2-urU"; */
+"cNH-S2-urU.normalTitle" = "Get all contacts";
+
+/* Class = "UILabel"; text = "phone no"; ObjectID = "tCt-Jj-erJ"; */
+"tCt-Jj-erJ.text" = "phone no";
